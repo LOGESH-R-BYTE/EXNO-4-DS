@@ -277,4 +277,5 @@ print(selected_features)
 
 # RESULT:
 
-       # INCLUDE YOUR RESULT HERE
+Thus, Feature selection and Feature scaling has been used on thegiven dataset.
+       
